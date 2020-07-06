@@ -64,6 +64,7 @@ p{
 }
 .l-heading{
     font-size: 40px;
+    line-height: 1.2;
 }
 
 .py-1 { padding: 10px 0; }
@@ -80,7 +81,7 @@ p{
 #navbar a{
     color: #fff;
 }
-#navbar h1{
+#navbar .logo{
     float: left;
     padding: 20px;
 }
@@ -174,7 +175,7 @@ p{
     min-height: 100%;
 }
 #testimonials{
-    height: 600px;
+    height: 100%;
     padding-top: 100px;
     background: url('../img/bg-1.jpeg');
 }
